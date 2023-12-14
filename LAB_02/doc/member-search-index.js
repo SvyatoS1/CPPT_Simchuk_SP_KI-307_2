@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ki307.simchuk.lab2","c":"ScannerApp","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ki307.simchuk.lab2","c":"ScannerApp","l":"ScannerApp()","u":"%3Cinit%3E()"}];updateSearchResults();

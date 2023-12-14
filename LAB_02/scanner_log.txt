@@ -1,0 +1,11 @@
+Sat Oct 14 21:49:01 EEST 2023 - Log file connected: scanner_log.txt
+Sat Oct 14 21:49:02 EEST 2023 - Scanner turned on.
+Sat Oct 14 21:49:02 EEST 2023 - Scanning document: Document1.txt
+Sat Oct 14 21:49:02 EEST 2023 - Document scanned and copied to: Output1.txt
+Sat Oct 14 21:49:02 EEST 2023 - Scanning document: Document2.txt
+Sat Oct 14 21:49:02 EEST 2023 - Document scanned and copied to: Output2.txt
+Sat Oct 14 21:49:02 EEST 2023 - Scanning document: Document3.txt
+Sat Oct 14 21:49:02 EEST 2023 - Document scanned and copied to: Output3.txt
+Sat Oct 14 21:49:02 EEST 2023 - DPI set to: 600
+Sat Oct 14 21:49:02 EEST 2023 - Duplex mode set to: false
+Sat Oct 14 21:49:02 EEST 2023 - Scanner turned off.
