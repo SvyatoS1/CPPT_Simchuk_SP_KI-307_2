@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ki307.simchuk.lab5","l":"Main"},{"p":"ki307.simchuk.lab5","l":"ResultFileHandler"}];updateSearchResults();
